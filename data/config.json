@@ -20,8 +20,8 @@
     "coding_resolution_y" : 2,
     "udp_destination_address" : "127.0.0.1", "//" : "i. e. localhost",
     "udp_destination_port" : 31337,
-    "ws_server" : "ws://csl.local.hcuhh.de:8081/ws",
-    "ws_topic" : "hcu.csl.changes",
+    "ws_server" : "ws://0.0.0.0:8081/ws",
+    "ws_topic" : "changes",
 
     "//" : "percent area thresholds for voting",
     "xxxx" : 0.65,
