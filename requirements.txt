@@ -1,0 +1,4 @@
+numpy>=1.15.1
+opencv_python>=3.4.2.17
+imutils>=0.5.2
+autobahn[twisted]
